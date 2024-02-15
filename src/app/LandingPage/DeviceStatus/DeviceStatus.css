@@ -1,0 +1,38 @@
+
+.device-info{
+    width: 100%;
+    padding: 16px;
+    margin: 16px;
+    background-color: 'white';
+}
+
+.device-status-content {
+    /* height: 45vh; */
+    overflow: auto;
+}
+
+.device-status-content li {
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 12px;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    gap: 0px; 
+  }
+  
+  .grid-header {
+    background-color: #7c7b7b;
+    color: white;
+    border: 1px solid #ddd;
+    padding: 16px;
+    text-align: center;
+  }
+
+  .grid-item {
+    border: 1px solid #ddd; /* Add borders for illustration */
+    padding: 16px;
+    text-align: center;
+  }

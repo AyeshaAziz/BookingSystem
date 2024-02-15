@@ -1,0 +1,26 @@
+[
+    {
+      "id":"1",
+      "name":"device1",
+      "status": "Available",
+      "bookedBy": "",
+      "to" : "",
+      "from" : ""
+    },
+    {
+        "id":"2",
+        "name":"device2",
+        "status": "Available",
+        "bookedBy": "",
+        "to" : "",
+        "from" : ""
+      },
+      {
+        "id":"3",
+        "name":"device3",
+        "status": "Available",
+        "bookedBy": "",
+        "to" : "",
+        "from" : ""
+      }
+  ]

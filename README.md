@@ -1,2 +1,4 @@
-# BookingSystem
- This is a react Application
+Commands
+
+npm run build
+npm rum dev

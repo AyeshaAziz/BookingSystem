@@ -1,0 +1,17 @@
+[
+    {
+      "id":"1",
+      "name":"Ayesha",
+      "devices":["device3"]
+    },
+    {
+      "id":"2",
+      "name":"Medha",
+      "devices":[]
+    },
+    {
+      "id":"3",
+      "name":"Gowthami",
+      "devices":[]
+    }
+  ]
